@@ -1,7 +1,7 @@
 {
   "loans": [
     {
-      "loanId": loan1,
+      "loanId": "loan1",
       "orderLineId": "orderLineId1"
     }
   ]
